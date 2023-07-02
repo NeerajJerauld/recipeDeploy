@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e19b9776.css",
+    "main.js": "/static/js/main.8dcefe05.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/NJ_logo.png": "/static/media/NJ_logo.b4310e8b0677ebefe836.png",
+    "static/media/cookingicon.jpeg": "/static/media/cookingicon.00f9411c655587e097cc.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e19b9776.css.map": "/static/css/main.e19b9776.css.map",
+    "main.8dcefe05.js.map": "/static/js/main.8dcefe05.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19b9776.css",
+    "static/js/main.8dcefe05.js"
+  ]
+}
